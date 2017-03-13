@@ -1,1 +1,1 @@
-# decathlon-results-counter
+A simple program to count overall results for given athletes and show the winner table
